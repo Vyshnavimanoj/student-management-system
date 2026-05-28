@@ -1,11 +1,11 @@
-# 📚 Student Management System (Spring Boot + MySQL)
+#  Student Management System (Spring Boot + MySQL)
 
 A simple backend project built using Spring Boot that performs CRUD operations for managing students.  
 This project demonstrates REST API development, database integration, and layered architecture.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add a new student
 - Get all students
@@ -17,7 +17,7 @@ This project demonstrates REST API development, database integration, and layere
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java 17
 - Spring Boot
@@ -29,4 +29,21 @@ This project demonstrates REST API development, database integration, and layere
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
+studentcrud/
+├── controller
+├── service
+├── repository
+├── model
+├── StudentcrudApplication.java
+
+---
+
+
+---
+
+##  How to Run the Project
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Vyshnavimanoj/student-management-system.git
